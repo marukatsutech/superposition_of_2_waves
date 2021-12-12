@@ -1,4 +1,4 @@
-# Superposition of 2 waves 2D (without clear ax)Change comment.
+# Superposition of 2 waves 2D (without clear ax)
 import tkinter
 from matplotlib.backends.backend_tkagg import (FigureCanvasTkAgg, NavigationToolbar2Tk)
 from matplotlib.figure import Figure
